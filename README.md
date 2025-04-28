@@ -126,6 +126,6 @@ Project Link: [https://github.com/maifriend/bas](https://github.com/maifriend/ba
 
 ## 🙏 Acknowledgments
 
-- All contributors to the initial concept
+- All contributors to the initial concept (claude.ai & me on a nightly brainstorming session)
 - The LangChain community for insights on agent architecture
 - Open standards organizations in the AI space
